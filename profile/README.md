@@ -1,4 +1,4 @@
-<img width="100" height="100" src="logo.png" alt="project logo">
+<img width="128" height="128" src="logo.png" alt="project logo">
 
 # Turmalina
 ![License](https://img.shields.io/github/license/turmalina-md/.github)
